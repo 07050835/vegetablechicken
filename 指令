@@ -4,4 +4,18 @@ sudo gedit /sys/devices/pwm-fan/target_pwm
 底盤啟動
 roslaunch dashgo_bringup minimal.launch
 鍵盤控制
-roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch 
+roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+
+
+
+ https://www.itread01.com/content/1550642605.html
+
+
+
+https://www.ncnynl.com/archives/201703/1439.html
+
+
+
+
+蛤
+
