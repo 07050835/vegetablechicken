@@ -1,0 +1,7 @@
+風扇轉速(上限250)
+sudo gedit /sys/devices/pwm-fan/target_pwm
+
+底盤啟動
+roslaunch dashgo_bringup minimal.launch
+鍵盤控制
+roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch 
